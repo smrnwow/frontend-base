@@ -6,7 +6,7 @@
 иногда терминал и графический интерфейс ведут себя похоже. вот пример с установкой приложения:
 
 запускаем программу, нужно подтвердить действие
-![установщик](https://github.com/smrnwow/frontend-base/raw/master/images/Pasted image 20250902112637.png)
+![установщик](https://raw.githubusercontent.com/smrnwow/frontend-base/master/images/Pasted%20image%2020250902112637.png)
 
 в процессе установки нам предлагают делать выбор
 ![выбор](https://github.com/smrnwow/frontend-base/raw/master/images/Pasted image 20250902112742.png)
